@@ -6,5 +6,5 @@ I am a big fan of efficient, organized work and life-long learning, which have h
 
 
 ## Stack
-
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png)
 
