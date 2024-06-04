@@ -6,4 +6,4 @@ I am a big fan of efficient, organized work and life-long learning, which have h
 
 
 ## Stack
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60" height="50">  <img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="100" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60" height="50">  <img src="https://media.licdn.com/dms/image/D4D12AQFjcz9MrPsWDQ/article-cover_image-shrink_600_2000/0/1669746580764?e=2147483647&v=beta&t=1gsLNYLqwau7-3cszokd_h7dADCNDPS0dTyPx6Op4XQ" width="100" height="50">
